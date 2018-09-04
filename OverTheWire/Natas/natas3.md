@@ -4,7 +4,7 @@ Username: natas3
 
 Password: ```sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14```
 
-URL: <http://natas1.natas.labs.overthewire.org>
+URL: <http://natas3.natas.labs.overthewire.org>
 
 Pop open the developer tools, see the comment 
 

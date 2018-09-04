@@ -4,7 +4,7 @@ Username: natas2
 
 Password:```ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi```
 
-URL: <http://natas1.natas.labs.overthewire.org>
+URL: <http://natas2.natas.labs.overthewire.org>
 
 If we pop open the developer tools, the source code isn't commented anymore, however there is a blank 1x1 pixel image.
 
