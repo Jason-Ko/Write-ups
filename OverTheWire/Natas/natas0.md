@@ -4,8 +4,11 @@ Username: natas0
 
 Password: natas0
 
-URL: http://natas0.natas.labs.overthewire.org
+URL: <http://natas0.natas.labs.overthewire.org>
 
 Open the inspector on whichever browser you're using, the password is commented in the source code.
 
->! gtVrDuiDfck831PqWsLEZy5gyDz1clto
+<details>
+    <summary>Flag</summary>
+    <code>gtVrDuiDfck831PqWsLEZy5gyDz1clto</code>
+</details>
