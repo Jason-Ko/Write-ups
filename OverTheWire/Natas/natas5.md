@@ -4,7 +4,7 @@ Username: natas5
 
 Password: ```iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq```
 
-URL: <http://natas4.natas.labs.overthewire.org>
+URL: <http://natas5.natas.labs.overthewire.org>
 
 When we open the page we see,
 
