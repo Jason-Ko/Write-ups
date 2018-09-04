@@ -4,6 +4,8 @@ Username: natas2
 
 Password:```ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi```
 
+URL: <http://natas1.natas.labs.overthewire.org>
+
 If we pop open the developer tools, the source code isn't commented anymore, however there is a blank 1x1 pixel image.
 
 The image path is `files/pixel.png` indicating that there is a directory `files` on the server.
