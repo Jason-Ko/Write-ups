@@ -12,7 +12,6 @@ Checking out the source code will allow you to check out a PHP function that wil
 
 From the source code, we can see that the PHP code requres `includes/secret.inc` which looks like a file path. Navigating to the file path specified, we are presented with the value of `$_secret`. Submitting that value into the input box, we get access to the credentials for natas7.
 
-
 <details>
     <summary>Flag</summary>
     7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
